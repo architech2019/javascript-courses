@@ -1,3 +1,8 @@
+
+let annee = 2022;
+let annee_naissance = prompt("Entrez votre annee de naissance")
+
+document.write(annee - annee_naissance)
 // Affectation
 let x = 10
 
@@ -10,4 +15,3 @@ let z = x + y;
 
 // Multiplication
 // division
-document.write(y)
